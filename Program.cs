@@ -1,0 +1,1 @@
+string strikpe_api_key=sk_test_wekdsrkjwelkrjwlekrjwlekrjflwkejr;
